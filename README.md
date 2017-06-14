@@ -2,7 +2,7 @@
 
 Make A-Frame entity follow a spline curve path.
 
-![A-Frame follow spline component](https://raw.githubusercontent.com/caseyyee/aframe-follow-spline-components/master/images/preview.gif)
+![A-Frame follow spline component](https://raw.githubusercontent.com/caseyyee/aframe-follow-spline-component/master/images/preview.gif)
 
 For [A-Frame](https://aframe.io).
 
